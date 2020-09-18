@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Motion Visualizer</string>
+    <string name="welcome">Welcome to Motion Visualizer!</string>
+    <string name="guide">Press \"START\" to start recording the data from specific sensor and get the data visualization graph.</string>
+    <string name="start">START</string>
+    <string name="no_sensor_dialog">No sensor detected!</string>
+    <string name="got_it">Got it.</string>
+    <string name="pick_a_sensor">Pick a sensor</string>
+    <string name="recording">Recording data...\nPress \"STOP\" to stop recording</string>
+    <string name="stop">STOP</string>
+    <string name="press_again_to_quit">Press again to quit</string>
+</resources>
