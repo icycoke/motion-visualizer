@@ -50,10 +50,6 @@ public class MainActivity extends AppCompatActivity
         }
     }
 
-    /**
-     *
-     * @param view
-     */
     public void startOnClick(View view) {
         SensorManager sensorManager = (SensorManager) getSystemService(Context.SENSOR_SERVICE);
         List<Sensor> sensorList = new ArrayList<>();
